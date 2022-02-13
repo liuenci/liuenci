@@ -1,8 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=liuenci&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+Hello，我是 Cier，Java 后端研发。做一件喜欢的事情，并且还在坚持
 
-### 你好，世界 👋
-
-- :orange_book: Focusing on Java & Web
-- :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover
+![](https://github-readme-stats.vercel.app/api?username=liuenci&show_icons=true&theme=default&hide=prs,contribs)
