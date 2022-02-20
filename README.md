@@ -1,7 +1,7 @@
 Hello，我是 liuenci，Java 后端研发。做一件喜欢的事情，并且还在坚持
 
 #### 持续在做的事
-* 知识图谱：构建自己的技术体系，持续完善中
+* [知识图谱](https://github.com/liuenci/knowledge_graph)：构建自己的技术体系，持续完善中
 * LeetCode：LeetCode 爬坑之路，持续更新中
 
 #### 写过的一些组件
